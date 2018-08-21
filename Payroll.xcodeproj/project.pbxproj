@@ -12,6 +12,24 @@
 		9BA6C0AE21275DF6008A63F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BA6C0AC21275DF6008A63F4 /* Main.storyboard */; };
 		9BA6C0B021275DF8008A63F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BA6C0AF21275DF8008A63F4 /* Assets.xcassets */; };
 		9BA6C0B321275DF8008A63F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BA6C0B121275DF8008A63F4 /* LaunchScreen.storyboard */; };
+		9BA6C0BB21275E76008A63F4 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0BA21275E76008A63F4 /* HomeViewController.swift */; };
+		9BA6C0BD21275E8A008A63F4 /* AddEmployeeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0BC21275E8A008A63F4 /* AddEmployeeViewController.swift */; };
+		9BA6C0BF21275EA4008A63F4 /* EmployeeDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0BE21275EA4008A63F4 /* EmployeeDetailsViewController.swift */; };
+		9BA6C0C121275ECE008A63F4 /* AllEmployeeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0C021275ECE008A63F4 /* AllEmployeeViewController.swift */; };
+		9BA6C0C421276E35008A63F4 /* HasVehicleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0C321276E35008A63F4 /* HasVehicleViewController.swift */; };
+		9BA6C0C6212785C9008A63F4 /* CommisionBasedPartTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0C5212785C9008A63F4 /* CommisionBasedPartTime.swift */; };
+		9BA6C0C8212785DF008A63F4 /* FixedBasePartTme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0C7212785DF008A63F4 /* FixedBasePartTme.swift */; };
+		9BA6C0CA212785E8008A63F4 /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0C9212785E8008A63F4 /* Employee.swift */; };
+		9BA6C0CC212785F8008A63F4 /* Fulltime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0CB212785F8008A63F4 /* Fulltime.swift */; };
+		9BA6C0CE21278603008A63F4 /* Intern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0CD21278603008A63F4 /* Intern.swift */; };
+		9BA6C0D021278612008A63F4 /* PartTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0CF21278612008A63F4 /* PartTime.swift */; };
+		9BA6C0D22127861A008A63F4 /* IPrintable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0D12127861A008A63F4 /* IPrintable.swift */; };
+		9BA6C0D421278629008A63F4 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0D321278629008A63F4 /* Car.swift */; };
+		9BA6C0D621278637008A63F4 /* MotorCycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0D521278637008A63F4 /* MotorCycle.swift */; };
+		9BA6C0D82127863E008A63F4 /* Vehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA6C0D72127863E008A63F4 /* Vehicle.swift */; };
+		9BDD37C8212BA49700BBCC78 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDD37C7212BA49700BBCC78 /* LoginViewController.swift */; };
+		9BDD37CA212BA6EE00BBCC78 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDD37C9212BA6EE00BBCC78 /* SplashViewController.swift */; };
+		9BDD37CC212BA7C400BBCC78 /* Payroll 11 Web.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BDD37CB212BA7C400BBCC78 /* Payroll 11 Web.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +40,24 @@
 		9BA6C0AF21275DF8008A63F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BA6C0B221275DF8008A63F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BA6C0B421275DF8008A63F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BA6C0BA21275E76008A63F4 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		9BA6C0BC21275E8A008A63F4 /* AddEmployeeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEmployeeViewController.swift; sourceTree = "<group>"; };
+		9BA6C0BE21275EA4008A63F4 /* EmployeeDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeDetailsViewController.swift; sourceTree = "<group>"; };
+		9BA6C0C021275ECE008A63F4 /* AllEmployeeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllEmployeeViewController.swift; sourceTree = "<group>"; };
+		9BA6C0C321276E35008A63F4 /* HasVehicleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HasVehicleViewController.swift; sourceTree = "<group>"; };
+		9BA6C0C5212785C9008A63F4 /* CommisionBasedPartTime.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommisionBasedPartTime.swift; sourceTree = "<group>"; };
+		9BA6C0C7212785DF008A63F4 /* FixedBasePartTme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FixedBasePartTme.swift; sourceTree = "<group>"; };
+		9BA6C0C9212785E8008A63F4 /* Employee.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
+		9BA6C0CB212785F8008A63F4 /* Fulltime.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fulltime.swift; sourceTree = "<group>"; };
+		9BA6C0CD21278603008A63F4 /* Intern.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Intern.swift; sourceTree = "<group>"; };
+		9BA6C0CF21278612008A63F4 /* PartTime.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PartTime.swift; sourceTree = "<group>"; };
+		9BA6C0D12127861A008A63F4 /* IPrintable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IPrintable.swift; sourceTree = "<group>"; };
+		9BA6C0D321278629008A63F4 /* Car.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		9BA6C0D521278637008A63F4 /* MotorCycle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotorCycle.swift; sourceTree = "<group>"; };
+		9BA6C0D72127863E008A63F4 /* Vehicle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Vehicle.swift; sourceTree = "<group>"; };
+		9BDD37C7212BA49700BBCC78 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		9BDD37C9212BA6EE00BBCC78 /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
+		9BDD37CB212BA7C400BBCC78 /* Payroll 11 Web.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Payroll 11 Web.png"; path = "../../Payroll 11 Web.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +90,48 @@
 		9BA6C0A721275DF6008A63F4 /* Payroll */ = {
 			isa = PBXGroup;
 			children = (
+				9BA6C0D12127861A008A63F4 /* IPrintable.swift */,
+				9BA6C0D92127870A008A63F4 /* VEHICLE */,
+				9BA6C0C221276E1B008A63F4 /* EMPLOYEE */,
 				9BA6C0A821275DF6008A63F4 /* AppDelegate.swift */,
 				9BA6C0AA21275DF6008A63F4 /* ViewController.swift */,
+				9BDD37CB212BA7C400BBCC78 /* Payroll 11 Web.png */,
 				9BA6C0AC21275DF6008A63F4 /* Main.storyboard */,
 				9BA6C0AF21275DF8008A63F4 /* Assets.xcassets */,
 				9BA6C0B121275DF8008A63F4 /* LaunchScreen.storyboard */,
 				9BA6C0B421275DF8008A63F4 /* Info.plist */,
+				9BA6C0BA21275E76008A63F4 /* HomeViewController.swift */,
+				9BA6C0BC21275E8A008A63F4 /* AddEmployeeViewController.swift */,
+				9BA6C0BE21275EA4008A63F4 /* EmployeeDetailsViewController.swift */,
+				9BA6C0C021275ECE008A63F4 /* AllEmployeeViewController.swift */,
+				9BA6C0C321276E35008A63F4 /* HasVehicleViewController.swift */,
+				9BDD37C7212BA49700BBCC78 /* LoginViewController.swift */,
+				9BDD37C9212BA6EE00BBCC78 /* SplashViewController.swift */,
 			);
 			path = Payroll;
+			sourceTree = "<group>";
+		};
+		9BA6C0C221276E1B008A63F4 /* EMPLOYEE */ = {
+			isa = PBXGroup;
+			children = (
+				9BA6C0CF21278612008A63F4 /* PartTime.swift */,
+				9BA6C0CD21278603008A63F4 /* Intern.swift */,
+				9BA6C0CB212785F8008A63F4 /* Fulltime.swift */,
+				9BA6C0C9212785E8008A63F4 /* Employee.swift */,
+				9BA6C0C7212785DF008A63F4 /* FixedBasePartTme.swift */,
+				9BA6C0C5212785C9008A63F4 /* CommisionBasedPartTime.swift */,
+			);
+			path = EMPLOYEE;
+			sourceTree = "<group>";
+		};
+		9BA6C0D92127870A008A63F4 /* VEHICLE */ = {
+			isa = PBXGroup;
+			children = (
+				9BA6C0D72127863E008A63F4 /* Vehicle.swift */,
+				9BA6C0D521278637008A63F4 /* MotorCycle.swift */,
+				9BA6C0D321278629008A63F4 /* Car.swift */,
+			);
+			path = VEHICLE;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,6 +192,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BDD37CC212BA7C400BBCC78 /* Payroll 11 Web.png in Resources */,
 				9BA6C0B321275DF8008A63F4 /* LaunchScreen.storyboard in Resources */,
 				9BA6C0B021275DF8008A63F4 /* Assets.xcassets in Resources */,
 				9BA6C0AE21275DF6008A63F4 /* Main.storyboard in Resources */,
@@ -135,8 +206,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BDD37C8212BA49700BBCC78 /* LoginViewController.swift in Sources */,
+				9BA6C0C421276E35008A63F4 /* HasVehicleViewController.swift in Sources */,
 				9BA6C0AB21275DF6008A63F4 /* ViewController.swift in Sources */,
+				9BA6C0D421278629008A63F4 /* Car.swift in Sources */,
+				9BA6C0C6212785C9008A63F4 /* CommisionBasedPartTime.swift in Sources */,
+				9BA6C0CA212785E8008A63F4 /* Employee.swift in Sources */,
 				9BA6C0A921275DF6008A63F4 /* AppDelegate.swift in Sources */,
+				9BA6C0C121275ECE008A63F4 /* AllEmployeeViewController.swift in Sources */,
+				9BA6C0D82127863E008A63F4 /* Vehicle.swift in Sources */,
+				9BA6C0BF21275EA4008A63F4 /* EmployeeDetailsViewController.swift in Sources */,
+				9BA6C0D22127861A008A63F4 /* IPrintable.swift in Sources */,
+				9BA6C0CE21278603008A63F4 /* Intern.swift in Sources */,
+				9BA6C0BD21275E8A008A63F4 /* AddEmployeeViewController.swift in Sources */,
+				9BA6C0C8212785DF008A63F4 /* FixedBasePartTme.swift in Sources */,
+				9BDD37CA212BA6EE00BBCC78 /* SplashViewController.swift in Sources */,
+				9BA6C0D621278637008A63F4 /* MotorCycle.swift in Sources */,
+				9BA6C0BB21275E76008A63F4 /* HomeViewController.swift in Sources */,
+				9BA6C0CC212785F8008A63F4 /* Fulltime.swift in Sources */,
+				9BA6C0D021278612008A63F4 /* PartTime.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
